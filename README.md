@@ -18,7 +18,7 @@ My portfolio demonstrates how I approach deploying applications, monitoring infr
 - **Infrastructure as Code:** Terraform fundamentals
 - **Version Control:** Git and GitHub
 
-## Featured Projects
+## Flagship Projects
 
 ### 1. Operation Skyfall — Secure AWS CI/CD
 A GitHub Actions deployment project exploring AWS OIDC authentication, IAM permissions, pre-deployment validation and Amazon S3 website deployment.
@@ -56,12 +56,12 @@ A multi-tier application project exploring load balancing, EC2-hosted Node.js, P
 - Test failure scenarios and verify recovery behaviour.
 - Document architecture, implementation decisions and troubleshooting findings.
 
-## Currently Developing
+## Currently Learning & Improving
 
-- Deeper AWS infrastructure and IAM knowledge
-- Infrastructure as Code with Terraform
-- Kubernetes operations and deployment reliability
-- CI/CD security and automated testing
+- **AWS:** Strengthening knowledge of IAM, networking and cloud infrastructure.
+- **Terraform:** Developing practical Infrastructure as Code skills.
+- **Kubernetes:** Improving deployment, troubleshooting and workload recovery skills.
+- **DevSecOps:** Exploring secure CI/CD practices, credential management and automated validation.
 
 ## Let's Connect
 
