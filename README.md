@@ -10,7 +10,7 @@ My portfolio demonstrates how I approach deploying applications, monitoring infr
 
 ## What I'm Working With
 
-- **Cloud:** AWS EC2, VPC, IAM, RDS, Application Load Balancer, Systems Manager, CloudWatch
+- **Cloud:** AWS EC2, S3, VPC, IAM, RDS, Application Load Balancer, Systems Manager, CloudWatch
 - **CI/CD & Automation:** GitHub Actions, deployment workflows, AWS OIDC federation
 - **Containers:** Docker, Kubernetes, Amazon ECR, Amazon EKS
 - **Monitoring:** CloudWatch, CloudWatch Agent, Grafana, Amazon SNS
@@ -67,7 +67,6 @@ A multi-tier application project exploring load balancing, EC2-hosted Node.js, P
 
 I'm interested in Junior Cloud Engineer, Junior DevOps Engineer and Cloud Support Engineer opportunities.
 
-- **GitHub:** [github.com/imed3721](https://github.com/imed3721)
-- **LinkedIn:** [Add your LinkedIn profile URL]
+- **LinkedIn:** https://www.linkedin.com/in/demi-a-186443200/
 - **Email:** demialabi11@outlook.com
 
